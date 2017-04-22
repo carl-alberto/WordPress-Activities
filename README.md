@@ -106,4 +106,17 @@ https://developer.wordpress.org/
 
 https://developer.wordpress.org/resource/dashicons
 
+Code of conduct
 https://meta.trac.wordpress.org/attachment/ticket/957/conduct.3.md
+
+Coding standards
+
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/
+
+
+
+
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
