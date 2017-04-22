@@ -103,3 +103,7 @@ https://wordpress.org/plugins/jetpack/
 
 # References
 https://developer.wordpress.org/
+
+https://developer.wordpress.org/resource/dashicons
+
+https://meta.trac.wordpress.org/attachment/ticket/957/conduct.3.md
